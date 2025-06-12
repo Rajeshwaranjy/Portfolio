@@ -1,0 +1,24 @@
+body {
+    background-color: #0b1f3a;
+    color: white;
+  }
+  
+  h2.section-title {
+    color: #00bcd4;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #00bcd4;
+    display: inline-block;
+    font-weight: bold;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+  }
+  
+  .btn-outline-info {
+    border-radius: 30px;
+    font-weight: 500;
+    padding: 6px 20px;
+  }
+  

@@ -1,0 +1,39 @@
+  /* Section Title Styling */
+  h2.section-title {
+    color: #00bcd4;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #00bcd4;
+    display: inline-block;
+    font-weight: bold;
+  }
+  
+  /* Certificate Image Styling */
+  .cert-img {
+    max-width: 100%;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.3s;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+  }
+  
+  .cert-img:hover {
+    transform: scale(1.05);
+  }
+   
+  /* Navbar Links */
+  .nav-link {
+    color: white;
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline;
+  }
+  
+  /* Headings in Certification Text */
+  .text-info {
+    color: #00bcd4;
+  }
+section{
+  padding: 20px;
+}
